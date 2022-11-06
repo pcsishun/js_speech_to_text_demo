@@ -16,6 +16,4 @@ const funcSpeechToText = (evt) => {
         recognition.stop();
     }
 }
-
-
 export default funcSpeechToText
